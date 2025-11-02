@@ -188,7 +188,7 @@ export default function HomePage() {
                 </div>
 
                 <div className="rounded-lg bg-gradient-to-r from-purple-500/10 to-pink-500/10 p-3 border border-purple-500/20">
-                  <p className="text-xs text-slate-300">✨ Slash 명령어는 티켓 시스템 전용입니다.</p>
+                  <p className="text-xs text-slate-300">✨티켓 시스템은 Slash 명령어 전용입니다.</p>
                 </div>
               </div>
             </div>
