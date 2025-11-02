@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'WooBot Service',
-  description: 'Made By Woo6671',
+  description: '최고급 디스코드봇\n관리,로그,티켓등 서버에 필요한 모든기능을 무료로.,
   generator: 'WooBot Service',
 }
 
